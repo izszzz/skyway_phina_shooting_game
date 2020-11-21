@@ -1,0 +1,12 @@
+{
+    "liveServer.settings.port": 5501,
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[markdown]": {
+        "editor.formatOnSave": true
+    },
+    "[html]" : {
+        "editor.formatOnSave": true
+    }
+}
